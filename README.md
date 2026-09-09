@@ -8,7 +8,7 @@ clean service design.
 
 ## Experience
 
-**Infosys — Java Developer**
+**Infosys - Java Developer**
 
 Worked on backend services for Cummins' RapidServe
 warranty claims platform, developing REST APIs and
